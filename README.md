@@ -117,7 +117,13 @@ The project combines organized motor connections, ultrasonic sensing, external p
 
 ---
 
-**Smart Methods — Robotics Engineering Training**
+---
 
-https://github.com/user-attachments/assets/075b81a2-f3e4-4756-9af1-979f00e6e9cc
+## Project Developer
+
+**Reem Al-Wadei**  
+PCB Design, Layout, and 3D Visualization
+
+
+
 
