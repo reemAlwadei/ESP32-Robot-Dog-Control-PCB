@@ -4,21 +4,21 @@
 
 ## 🎥 3D Preview
 
-[▶️ Watch the 3D PCB Demo](              
+<!-- DRAG TH
 
-Uploading robot-dog-pcb-demo.mp4…
+https://github.com/user-attachments/assets/ddaeea7e-09c5-471c-a3ed-39d0c3bb7403
 
-)
+E MP4 VIDEO HERE -->
 
 ---
 
-## Overview
+## Project Overview
 
 This project presents a custom double-layer PCB designed for an ESP32-based robot dog.
 
-The board provides organized connections for four servo motors, an HC-SR04 ultrasonic sensor, and an external 5V power input. The PCB was designed and visualized using EasyEDA.
+The board integrates the main controller, four servo motor connections, an HC-SR04 ultrasonic sensor, and an external 5V power input in one organized PCB design.
 
-The component layout was arranged to reflect the physical structure of the robot dog, making the design clear, practical, and easy to integrate with the final robotic system.
+The layout was created in EasyEDA with a component arrangement inspired by the physical structure of the robot dog.
 
 ---
 
@@ -34,20 +34,20 @@ The component layout was arranged to reflect the physical structure of the robot
 
 ## Robot Dog Layout
 
-The four servo connectors represent the four legs of the robot:
+The four servo connections represent the four legs of the robot dog:
 
 - **SERVO1** — Front Left Leg
 - **SERVO2** — Rear Left Leg
 - **SERVO3** — Front Right Leg
 - **SERVO4** — Rear Right Leg
 
-The **HC-SR04** is positioned at the front of the board to represent the sensing direction of the robot dog.
+The **HC-SR04 ultrasonic sensor** is positioned at the front of the board to represent the sensing direction of the robot.
 
-The **ESP32** acts as the main controller, while the **5V INPUT** provides external power to the system.
+The **ESP32** is located at the center as the main controller, while the **5V input** provides external power to the system.
 
 ---
 
-## PCB Features
+## PCB Design Features
 
 - Double-layer PCB
 - Rounded board corners
@@ -56,54 +56,41 @@ The **ESP32** acts as the main controller, while the **5V INPUT** provides exter
 - Four dedicated servo connections
 - Dedicated ultrasonic sensor connection
 - External 5V power input
-- 3D component models
+- Realistic 3D component models
 - EasyEDA 3D visualization
-- Design Rule Check completed
 
 ---
 
-## PCB Design Process
+## Design Process
 
-1. Created the robot dog electrical schematic.
+1. Created the electrical schematic.
 2. Converted the schematic into a PCB layout.
-3. Arranged the components according to the robot structure.
+3. Arranged the components according to the robot dog structure.
 4. Designed a rounded PCB outline.
-5. Routed the connections using both PCB layers.
-6. Added 3D models for the ESP32, sensor, servo connectors, and power input.
-7. Verified the final design using EasyEDA 3D View.
-
----
-
-## Design Verification
-
-The PCB was checked after routing to confirm that all electrical connections were completed correctly.
-
-- **Routing Completion:** 100%
-- **Failed Connections:** 0
-- **DRC Errors:** 0
+5. Routed the electrical connections using both PCB layers.
+6. Added 3D models for the main components.
+7. Verified the final layout using EasyEDA 3D View.
 
 ---
 
 ## 3D Visualization
 
-The final EasyEDA 3D model provides a realistic preview of the PCB before manufacturing.
+The final 3D model provides a realistic preview of the PCB before manufacturing.
 
 The visualization includes:
 
 - ESP32 development board
 - HC-SR04 ultrasonic sensor
-- Four servo connection terminals
-- External 5V power terminal
-- Rounded PCB structure
+- Servo connection terminals
+- 5V power terminal
+- Custom PCB structure
 
 ---
 
 ## Repository Files
 
-This repository contains:
-
-- PCB design file
-- Schematic design file
+- EasyEDA PCB design file
+- EasyEDA schematic file
 - Final PCB 3D image
 - 3D demonstration video
 - Project documentation
@@ -114,18 +101,21 @@ This repository contains:
 
 - EasyEDA
 - ESP32
-- EasyEDA Auto Router
-- Design Rule Check (DRC)
+- HC-SR04
+- PCB Routing Tools
 - EasyEDA 3D Viewer
 
 ---
 
 ## Final Result
 
-The final design is a custom ESP32 control PCB prepared specifically for a four-servo robot dog system.
+The final result is a custom ESP32 control PCB designed specifically for a four-servo robot dog system.
 
-It combines motor control connections, ultrasonic sensing, external power, double-layer routing, and realistic 3D visualization in one organized board.
+The project combines organized motor connections, ultrasonic sensing, external power, double-layer PCB design, and realistic 3D visualization in one complete robotic control board.
 
 ---
 
 **Smart Methods — Robotics Engineering Training**
+
+https://github.com/user-attachments/assets/075b81a2-f3e4-4756-9af1-979f00e6e9cc
+
