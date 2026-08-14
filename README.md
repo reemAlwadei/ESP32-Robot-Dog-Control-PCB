@@ -4,11 +4,11 @@
 
 ## 🎥 3D Preview
 
-<!-- DRAG TH
 
-https://github.com/user-attachments/assets/ddaeea7e-09c5-471c-a3ed-39d0c3bb7403
 
-E MP4 VIDEO HERE -->
+Uploading robot-dog-pcb-demo.mp4…
+
+
 
 ---
 
